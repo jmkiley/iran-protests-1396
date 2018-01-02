@@ -1,0 +1,1020 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dehdasht, Kohgiluyeh and Boyer-Ahmad Province, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.564097,
+          30.793211
+        ],
+        "type": "Point"
+      },
+      "id": "3476bce8f5054b8f5be43c66790e1dc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Shahin Shahr, Esfahan, Iran",
+        "11-Dey": "true",
+        "10-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.557733,
+          32.856319
+        ],
+        "type": "Point"
+      },
+      "id": "3a4867f599bca20475c376117bb2633f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ghahderijan, Esfahan, Iran",
+        "11-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.455893,
+          32.57719
+        ],
+        "type": "Point"
+      },
+      "id": "4a6fd3d2f483c7d127fef9e05d0bea33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tonekaban, Mazandaran, Iran",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.881145,
+          36.815656
+        ],
+        "type": "Point"
+      },
+      "id": "4f4a6f1d40ca578c45b5591a1eac911c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sanandej, Kurdistan, Iran",
+        "11-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          46.996751,
+          35.312013
+        ],
+        "type": "Point"
+      },
+      "id": "794b29deaae4ece35d03abc5ee5b4d88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mohammadiyeh, Qazvin, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.188564,
+          36.224327
+        ],
+        "type": "Point"
+      },
+      "id": "a2cd61c119d3da4ba6b0d63ba12d3fea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hashtgerd, Tehran, Iran",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.688964,
+          35.964042
+        ],
+        "type": "Point"
+      },
+      "id": "d91833bd33582138a5e23ae97370584c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Toyserkan, Hamedan, Iran",
+        "11-Dey": "true",
+        "10-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.44788,
+          34.549155
+        ],
+        "type": "Point"
+      },
+      "id": "dc8def8b2808f111d19ca28073684c05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Gorgan, Golestan, Iran",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          54.4436,
+          36.8417
+        ],
+        "type": "Point"
+      },
+      "id": "place.10067898344861180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dorud, Lorestan, Iran",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.202614,
+          33.49118
+        ],
+        "type": "Point"
+      },
+      "id": "place.10150482296429610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Delfan, Lorestan, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          47.6478,
+          34.0953
+        ],
+        "type": "Point"
+      },
+      "id": "place.10371285195989960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bandar Abbas, Hormozgan, Iran",
+        "10-Dey": "true",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          56.2808,
+          27.1865
+        ],
+        "type": "Point"
+      },
+      "id": "place.10431926754591030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Zanjan, Zanjan, Iran",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.5,
+          36.69
+        ],
+        "type": "Point"
+      },
+      "id": "place.10857788656790700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Najafabad, Esfahan, Iran",
+        "9-Dey": "true",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.27,
+          32.74
+        ],
+        "type": "Point"
+      },
+      "id": "place.10885265309177650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Behshahr, Mazandaran, Iran",
+        "10-Dey": "true",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          53.5526,
+          36.6923
+        ],
+        "type": "Point"
+      },
+      "id": "place.11325749543166890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Khoy, West Azarbaijan, Iran",
+        "8-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          44.97,
+          38.92
+        ],
+        "type": "Point"
+      },
+      "id": "place.11385698905465130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Baghmalek, Khuzestan, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.8862,
+          31.5231
+        ],
+        "type": "Point"
+      },
+      "id": "place.11526344651761490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q178373",
+        "place_name": "Rasht, Gilan, Iran",
+        "11-Dey": "true",
+        "8-Dey": "true",
+        "9-Dey": "true",
+        "10-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.6,
+          37.28333
+        ],
+        "type": "Point"
+      },
+      "id": "place.11538151096174310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Khomeinishahr, Esfahan, Iran",
+        "11-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.5361,
+          32.6856
+        ],
+        "type": "Point"
+      },
+      "id": "place.11642042142377390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kermanshah, Kermanshah, Iran",
+        "11-Dey": "true",
+        "8-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          47.065,
+          34.3142
+        ],
+        "type": "Point"
+      },
+      "id": "place.12352277198361510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Qazvin, Qazvin, Iran",
+        "10-Dey": "true",
+        "8-Dey": "true",
+        "11-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.0049,
+          36.2797
+        ],
+        "type": "Point"
+      },
+      "id": "place.12455047506579410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q121157",
+        "place_name": "Mashhad, Razavi Khorasan, Iran",
+        "10-Dey": "true",
+        "7-Dey": "true",
+        "9-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          59.60417,
+          36.30694
+        ],
+        "type": "Point"
+      },
+      "id": "place.12641694700238750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Maragheh, East Azarbaijan, Iran",
+        "11-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          46.2376,
+          37.3893
+        ],
+        "type": "Point"
+      },
+      "id": "place.12809554450642310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ardebil, Ardebil, Iran",
+        "11-Dey": "true",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.29,
+          38.24
+        ],
+        "type": "Point"
+      },
+      "id": "place.12879872570147030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Malayer, Hamadan, Iran",
+        "10-Dey": "true",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.8235,
+          34.2969
+        ],
+        "type": "Point"
+      },
+      "id": "place.13023206885967870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q42053",
+        "place_name": "Esfahan, Esfahan, Iran",
+        "11-Dey": "true",
+        "8-Dey": "true",
+        "10-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.67917,
+          32.65139
+        ],
+        "type": "Point"
+      },
+      "id": "place.13472354840280540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q3616",
+        "place_name": "Tehran, Tehran, Iran",
+        "11-Dey": "true",
+        "9-Dey": "true",
+        "10-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.401,
+          35.696
+        ],
+        "type": "Point"
+      },
+      "id": "place.13652908484081100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Abyek, Qazvin, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.34996,
+          36.067616
+        ],
+        "type": "Point"
+      },
+      "id": "place.13711939837687900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Arak, Markazi, Iran",
+        "11-Dey": "true",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.6892,
+          34.0917
+        ],
+        "type": "Point"
+      },
+      "id": "place.13843700847683560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bandar-e-Mahshahr, Khuzestan, Iran",
+        "11-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.1981,
+          30.5588
+        ],
+        "type": "Point"
+      },
+      "id": "place.14037263300905600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bushehr, Bushehr, Iran",
+        "9-Dey": "true",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.83,
+          28.96
+        ],
+        "type": "Point"
+      },
+      "id": "place.14374407405901690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Abhar, Zanjan, Iran",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.852063,
+          36.411501
+        ],
+        "type": "Point"
+      },
+      "id": "place.14969980078372520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Abadan, Khuzestan, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.3043,
+          30.3392
+        ],
+        "type": "Point"
+      },
+      "id": "place.15136102096622270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Khorramabad, Lorestan, Iran",
+        "8-Dey": "true",
+        "10-Dey": "true",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.36,
+          33.5
+        ],
+        "type": "Point"
+      },
+      "id": "place.15368455790877890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q179665",
+        "place_name": "Orumiyeh, West Azarbaijan, Iran",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          45.1,
+          37.55
+        ],
+        "type": "Point"
+      },
+      "id": "place.15756527446956190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Zahedan, Sistan and Baluchestan, Iran",
+        "8-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          60.84,
+          29.51
+        ],
+        "type": "Point"
+      },
+      "id": "place.16302229511071290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Izeh, Khuzestan, Iran",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.8672,
+          31.8341
+        ],
+        "type": "Point"
+      },
+      "id": "place.16323278291546120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Takestan, Qazvin, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.604118,
+          35.977035
+        ],
+        "type": "Point"
+      },
+      "id": "place.16590954456229540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Neyshabur, Razavi Khorasan, Iran",
+        "7-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          58.7958,
+          36.2133
+        ],
+        "type": "Point"
+      },
+      "id": "place.16975110451410710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q6397066",
+        "place_name": "Shiraz, Fars, Iran",
+        "10-Dey": "true",
+        "9-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          52.51667,
+          29.6
+        ],
+        "type": "Point"
+      },
+      "id": "place.17889790624328100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q720937",
+        "place_name": "Qaemshahr, Mazandaran, Iran",
+        "8-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          52.86056,
+          36.46111
+        ],
+        "type": "Point"
+      },
+      "id": "place.18670011106573730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Masjed Soleyman, Khuzestan, Iran",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.3039,
+          31.9364
+        ],
+        "type": "Point"
+      },
+      "id": "place.18715208273459790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Shahr-e-Kord, Chahar Mahall and Bakhtiari, Iran",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.8644,
+          32.3256
+        ],
+        "type": "Point"
+      },
+      "id": "place.2826279697831550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Shadegan, Khuzestan, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.6647,
+          30.6497
+        ],
+        "type": "Point"
+      },
+      "id": "place.2863294149084050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Hamedan, Hamadan, Iran",
+        "11-Dey": "true",
+        "8-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.9697,
+          35.0231
+        ],
+        "type": "Point"
+      },
+      "id": "place.3588435711965580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saveh, Markazi, Iran",
+        "9-Dey": "true",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.3566,
+          35.0213
+        ],
+        "type": "Point"
+      },
+      "id": "place.3934098537464870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q170366",
+        "place_name": "Ahvaz, Khuzestan, Iran",
+        "7-Dey": "false",
+        "8-Dey": "true",
+        "9-Dey": "true",
+        "10-Dey": "true",
+        "11-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.66917,
+          31.32028
+        ],
+        "type": "Point"
+      },
+      "id": "place.4388672828714540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Semnan, Semnan, Iran",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          53.3971,
+          35.5729
+        ],
+        "type": "Point"
+      },
+      "id": "place.4424111085357840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mamasani, Fars, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.512225,
+          30.203452
+        ],
+        "type": "Point"
+      },
+      "id": "place.5314306930667700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dezful, Khuzestan, Iran",
+        "9-Dey": "true",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          48.4058,
+          32.3811
+        ],
+        "type": "Point"
+      },
+      "id": "place.5373834153368440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Abadeh, Fars, Iran",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          52.6506,
+          31.1608
+        ],
+        "type": "Point"
+      },
+      "id": "place.6175370205565350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Shahreza, Esfahan, Iran",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.8667,
+          32
+        ],
+        "type": "Point"
+      },
+      "id": "place.6788767931762250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sabzevar, Razavi Khorasan, Iran",
+        "8-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          57.6819,
+          36.2126
+        ],
+        "type": "Point"
+      },
+      "id": "place.6804018336167530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Amol, Mazandaran, Iran",
+        "11-Dey": "true",
+        "9-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          52.3507,
+          36.4696
+        ],
+        "type": "Point"
+      },
+      "id": "place.7651045129481680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sari, Mazandaran, Iran",
+        "11-Dey": "true",
+        "8-Dey": "true",
+        "10-Dey": "true",
+        "12-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          53.0601,
+          36.5633
+        ],
+        "type": "Point"
+      },
+      "id": "place.7758652679651180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kashan, Esfahan, Iran",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          51.4,
+          33.97
+        ],
+        "type": "Point"
+      },
+      "id": "place.7899580121337330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Quchan, Razavi Khorasan, Iran",
+        "8-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          58.5095,
+          37.106
+        ],
+        "type": "Point"
+      },
+      "id": "place.8192445303944940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kuhdasht, Lorestan, Iran",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          47.61,
+          33.533299
+        ],
+        "type": "Point"
+      },
+      "id": "place.8340608666737850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ilam, Ilam, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          46.4227,
+          33.6374
+        ],
+        "type": "Point"
+      },
+      "id": "place.8609709453952070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Khorramdarreh, Zanjan, Iran",
+        "11-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          49.196,
+          36.213
+        ],
+        "type": "Point"
+      },
+      "id": "place.8801068806284610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q170573",
+        "place_name": "Qom, Qom, Iran",
+        "8-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.87889,
+          34.64611
+        ],
+        "type": "Point"
+      },
+      "id": "place.9194203267631720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kashmar, Razavi Khorasan, Iran",
+        "7-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          58.480597,
+          35.449916
+        ],
+        "type": "Point"
+      },
+      "id": "place.9448898186858970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q36529",
+        "place_name": "Karaj, Alborz, Iran",
+        "11-Dey": "true",
+        "9-Dey": "true",
+        "10-Dey": "true"
+      },
+      "geometry": {
+        "coordinates": [
+          50.96667,
+          35.81667
+        ],
+        "type": "Point"
+      },
+      "id": "place.9738103590355220"
+    }
+  ],
+  "type": "FeatureCollection"
+}
