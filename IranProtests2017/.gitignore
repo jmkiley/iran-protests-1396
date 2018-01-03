@@ -1,0 +1,7 @@
+xcuserdata
+DerivedData/
+*.pbxuser
+*.xcworkspace/*
+*.xcuserstate
+
+mapbox_access_token
